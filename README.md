@@ -1,6 +1,6 @@
  <div align="center">
 
-# Hi, I'm Seddik Hallil 👋
+# Hi, I'm Seddik Hallil
 
 ### Software Engineering Student | Developer | Technology Enthusiast
 
@@ -14,7 +14,7 @@ Building my foundation in software engineering, exploring how systems work under
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a **Computer Science and Software Development student at 1337 Coding School**, passionate about understanding technology beyond the surface level.
 
@@ -22,11 +22,11 @@ I enjoy exploring how software works, solving technical challenges, and continuo
 
 My interests extend beyond traditional software development into artificial intelligence, Large Language Models (LLMs), and emerging technologies.
 
-- 🎓 Studying Software Engineering at **1337 Coding School**.
-- 💻 Currently developing my skills in **C and Python**.
-- 🧠 Interested in algorithms, data structures, and systems programming.
-- 🤖 Exploring **Artificial Intelligence, LLMs, and AI-powered applications**.
-- 🚀 Focused on continuous learning, experimentation, and building meaningful projects.
+-  Studying Software Engineering at **1337 Coding School**.
+-  Currently developing my skills in **C and Python**.
+-  Interested in algorithms, data structures, and systems programming.
+-  Exploring **Artificial Intelligence, LLMs, and AI-powered applications**.
+-  Focused on continuous learning, experimentation, and building meaningful projects.
 
 ---
 
@@ -56,7 +56,7 @@ My interests extend beyond traditional software development into artificial inte
 
 ---
 
-## 🚀 What I'm Working Towards
+##  What I'm Working Towards
 
 I'm continuously expanding my knowledge and working towards becoming a well-rounded software engineer.
 
@@ -70,7 +70,7 @@ My current learning priorities include:
 
 ---
 
-## 🌐 Let's Connect
+##  Let's Connect
 
 I'm always interested in technology, software engineering, exchanging ideas, and learning from other developers.
 
@@ -90,6 +90,6 @@ I'm always interested in technology, software engineering, exchanging ideas, and
 
 ### "The goal is not just to write code, but to understand the systems behind it."
 
-**Thanks for visiting my profile!** ⭐
+**Thanks for visiting my profile!** 
 
 </div>
