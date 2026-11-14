@@ -8,7 +8,7 @@ Building my foundation in software engineering, exploring how systems work under
 
 [![GitHub](https://img.shields.io/badge/GitHub-HallilSed-181717?style=for-the-badge&logo=github)](https://github.com/HallilSed)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seddikhallil@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-Sed__hall-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Sed_hall)
+[![Discord](https://img.shields.io/badge/Discord-Sed__hall-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sedhallil)
 
 </div>
 
